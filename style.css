@@ -1,0 +1,59 @@
+#container{	
+	width: 80%;
+	height: auto;
+	margin: 0 auto;
+	text-align: center;
+}
+.shapes{
+	width: 90%;
+	height: 200px;
+	margin: 0 auto;
+}
+#post{
+	width: 90%;
+	height: 300px;
+	background-size: cover;
+	background-image: url("images/bg.jpg");
+	margin: 0 auto;
+}
+#post p{
+	color: white;
+	text-align: center;
+	padding: 40px 5px 40px 5px;
+}
+.post2{
+	width: 90%;
+	height: 250px;
+	margin: 10 auto;
+	
+}
+.blocktxt{
+	width: 200px;
+	height: 150px;
+	margin: 12px;
+	float: left;
+}
+#textimg{
+	width: 90%;
+	height: 300px;
+	margin: 10 auto;
+	
+}
+.textimage2{
+	float: right;
+	width: 250px;
+	height: 250px;
+	margin: 20px 150px 20px 0px;
+}
+.textimage1{
+	float: left;
+	width: 250px;
+	height: 250px;
+	margin: 20px 0 20px 150px;
+	
+}
+.kids{
+	width: 150px;
+	height: 80px;
+}
+
